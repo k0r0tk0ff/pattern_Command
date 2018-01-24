@@ -13,6 +13,10 @@ public class Main {
 
         switcher.switchOn();
         switcher.switchOff();
-
+        
+        /*
+        Invoker invoker = new Invoker(Arrays.asList(new Switcher()));
+        invoker.invokeAll();
+        */
     }
 }
